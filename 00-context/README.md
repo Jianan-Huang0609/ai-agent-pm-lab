@@ -4,6 +4,7 @@
 
 ## 文件
 - [memory-export-2026-05-31.md](memory-export-2026-05-31.md) — 跨会话记忆归档（从 Claude.ai 过往会话捞回）。涵盖真实项目 **CER / PTR / R·Agent** 的痛点、架构决策、指标、Badcase、目标，以及《AI PO 工程化手册》6 章摘要。
+- [AI_PO_Handbook_full.html](AI_PO_Handbook_full.html) — 《AI PO 工程化手册》全文（6 章，Jianan 著 · 2026）。正文为干净 UTF-8；注：源文件 `<title>` 标签有 pandoc 生成的乱码 `���`（仅标题，不影响正文），待修。摘要见 memory-export 的 §8。
 
 ## 真实项目速查（面试/讨论地基）
 - **CER**：医疗器械法规文档（MEDDEV 2.7/1）差异定位自动化，核心项目。
