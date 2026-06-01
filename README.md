@@ -38,6 +38,6 @@ Agent 产品开发不是单纯的工程问题，它要求你同时理解：
 
 ## 相关项目
 
+- **R·Agent / CER**：医疗器械法规文档差异定位自动化（核心真实项目）→ [项目记忆](00-context/memory-export-2026-05-31.md)
 - Love-Spinner：恋爱话题转盘 → [github.com/HJN-Bot/Love-Spinner](https://github.com/HJN-Bot/Love-Spinner)
-- CER Agent Framework：变更控制 Agent → [项目记忆](../agents/andrew/memory/project-cer-agent-framework.md)
 - AutoStackSharing：自动化内容分享流水线
